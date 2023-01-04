@@ -1,0 +1,150 @@
+Ctrl+alt+k components create in figma
+ctrl+A auto layout 
+
+
+Learn One Write Everywhere
+React:---------------React is javascript library
+Reacts Components
+Write ONe Use Everywhere 
+Node Js java Ka Runtime hai script execute kernay mai help kerta hai
+Thunder Client Same as Post Man (API request)
+Prettier Extension --Code Formatter
+Bracket Color plarizier ---Bracket same color
+ES7 REACT GRAPHQL /REDUX SNIPPETS---import module easily imp...class based components & function based components
+
+npm package manager hai yai nodejs mai package install kernai mai help kerta hai
+
+NPX browser kai bahir use easily js kai sath OnE time Run
+npm package install kerta hai dusro kai code ko apkai computer kai sath
+
+
+create react myapp ---myapp folder in files
+if create react myapp. ---dot kai sath tou all files are outside
+
+2 based components 
+1 class based components
+2 function based components
+jsx is html + javascript
+
+npm run start ---- npm start ---
+optimized result : <- npm run build for development perfect
+
+Props short for Properties
+
+
+Function Types In React:
+Arrow Function Normal Function Named Function
+
+JSX =Javascript Syntax Extension js+Html .s Is used in react to describe what the user interface should look like 
+html+js =jsx
+JSX= className  dynamic js insert
+
+React Environment Setup:
+1- Webpack & Babel.
+2- Create react-app Command.
+
+
+Node Js:
+Is a javascript runtime That allows us to execute JS Code on The Server.
+
+React Routong DOM: Routing is aone page to anaother page
+SPA Single Page Application
+
+curly bracket mai js use hogi
+khali opening & closing tag wrap! <> </> any thing return so wrap in tags <></>
+
+input or hr no closing tag so put  slash/
+
+& class replace className
+if use react with bootstrap so used react.bootstrap https://react-bootstrap.github.io/
+
+
+best idea is app component layout under all other components mean header comp 7 footer components
+
+rfc or rafc both are possible 
+
+
+Props kya hota hai ??
+Props=Properties
+Props is a javascipt object jo hum pass kerehai hai parents components to Child components
+Basically data pass parents comp to Child comp.
+best is props.
+
+--js ternary operator true/false?
+--object mai semicolon nahi lagta.
+
+
+prototypes bug ko jaldi cache kerlenagay islia prototypes mai batana kai string hai number hai whenever
+Header.propTypes={
+title:PropTypes.string
+}
+
+
+Header Default Props:
+if user not pass any props parents comp so defaultprops show sure cause default is default!
+use loop for display every todos item
+javascript higher order method is map()
+
+error resolve empty tag mai wrap !!!
+
+
+---Javascript Higher Order Method!
+ {props.todos.map((todo)=>{
+return <TodoItem todo={todo}/> 
+       })}
+
+-----
+
+
+1 or more than tag used in jsx return()
+javascript mai destructuring ka concept hotahai!
+
+!!!!
+func() ---function call
+func ---function pass
+
+How musch js is needed to react?
+Extreme JS: let var const data stypes strings 
+conditionals loop foreach loops
+arrow functions function lexicalconcept
+events, handling events, How lexical this works?  Normal Function
+lexical this -- concept is important!
+
+Named Imports
+Default Imports
+
+--callback function
+Promises
+async/wait synchonization function
+map filter function 
+react specific concepts
+Hooks
+Components
+Basic react App
+
+RTC=Real Time Communication
+in react use state Hook usestate is a function update in react aproject
+set todo function hai jo todos ko update kerayga!
+
+filter is higher oreder array method.
+
+Spread Opeartor == syntax ... triple dot
+array ki copy spread operator!
+
+
+call back & promises example of AsyncWait
+---Callback two arguments: data,error
+file.txt ko utf-8 ko then read otherwise numbers format-- Encoding 
+jubtek file read horehihai tub tek nichay ka content execute kerday
+callback kai under callback callbacks so code not readable so use promises
+
+
+Promises:Promises means mai run hojaoga!
+
+Prettier Extension:Format
+
+e.preventdefault:page not reload
+in label for replace htmlFor
+
+
+Use Effect Hook:
